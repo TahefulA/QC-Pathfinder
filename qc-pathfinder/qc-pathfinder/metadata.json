@@ -1,0 +1,6 @@
+{
+  "name": "QC Pathfinder",
+  "description": "Unofficial Queens College campus map and walking route day planner with OpenStreetMap footpath routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
