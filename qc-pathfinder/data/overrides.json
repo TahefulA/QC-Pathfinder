@@ -1,0 +1,18 @@
+{
+  "buildingNames": {},
+  "aliases": {
+    "kiely-hall": ["KY", "Kiely", "Kiely Hall"],
+    "rosenthal-library": ["RL", "Rosenthal", "Library", "Benjamin S. Rosenthal Library"],
+    "powdermaker-hall": ["PH", "Powdermaker", "Powdermaker Hall"],
+    "science-building": ["SB", "Science", "Science Building", "Remsen Hall"],
+    "student-union": ["SU", "Student Union"],
+    "jefferson-hall": ["JH", "Jefferson", "Jefferson Hall"],
+    "razran-hall": ["RA", "Razran", "Razran Hall"],
+    "delany-hall": ["DH", "Delany", "Delany Hall"],
+    "klapper-hall": ["KH", "Klapper", "Klapper Hall"],
+    "colden-auditorium": ["CA", "Colden", "Colden Auditorium", "Kupferberg Center"]
+  },
+  "extraBuildings": [],
+  "extraEdges": [],
+  "blockedWayIds": []
+}
